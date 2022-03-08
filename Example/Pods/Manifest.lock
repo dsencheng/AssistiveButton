@@ -1,5 +1,5 @@
 PODS:
-  - AssistiveButton (1.1.2)
+  - AssistiveButton (1.2.0)
 
 DEPENDENCIES:
   - AssistiveButton (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AssistiveButton: 4018311ca2bdadc419b5bbba2853fb86fd091140
+  AssistiveButton: d4fabebf1ff0b80a8d86c1f0f32eac6efc446407
 
 PODFILE CHECKSUM: f196779507dcad2139b98a6fdc7ae652a0dec240
 
-COCOAPODS: 1.5.0
+COCOAPODS: 1.11.2

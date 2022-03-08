@@ -7,299 +7,260 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		48349A31549DA149D3A6FCFEE9C748A2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		497A56275EAF1BE9E0C086E16F5732B8 /* Pods-AssistiveButton_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F6AAAE0A9851DD15761D73D0A07752C5 /* Pods-AssistiveButton_Tests-dummy.m */; };
-		4986D59E2DF2801E8D547D9A6F01BBFE /* Pods-AssistiveButton_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 53245E01BBC3028E850DA0B8EB6D7371 /* Pods-AssistiveButton_Example-dummy.m */; };
-		58AD119411B01AC86F3D47D61A24B0CD /* Pods-AssistiveButton_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8158DCCB605D270B2A764D6CE79F4050 /* Pods-AssistiveButton_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D5CEB0A8B025F516D44C9E8C5DD36EFA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		D6E63357681FFAE2BE2C2E7993A40D56 /* AssistiveButton-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 00214010EE959A541E2FA4A5D0D05FD9 /* AssistiveButton-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E1F8FD2D3B50A10FA51635DDD1429FF5 /* AssistiveButton-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 739073C7364CA345710BE64C0A5B3FAD /* AssistiveButton-dummy.m */; };
-		E9040B3C8883E850643087E3A11B7B0B /* Pods-AssistiveButton_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C8990FDE893F3AE10DB15EFB001B7CAA /* Pods-AssistiveButton_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EAB69751BAFF014CA22B884ADD599537 /* AssistiveButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 286A2B95417D946B0C6F954C8FD2D5FD /* AssistiveButton.swift */; };
-		FA082ABA101A1683B3CEC89A481915FC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		0CA05A3085E8E658CF8AF8DD73B0DCA0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		15B7F2455612A6E87F589C2C1C0B2131 /* Pods-AssistiveButton_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C49434CD60B0F2B9C4093C6566C2717 /* Pods-AssistiveButton_Tests-dummy.m */; };
+		423747679428CED615CC5BE99A02DEA7 /* Pods-AssistiveButton_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F7801B2A1DB0B1ADE05C732F0E75727D /* Pods-AssistiveButton_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		47223645F3006E0A1110088794B017C7 /* Pods-AssistiveButton_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A63571136371F4499A9433E311BC724F /* Pods-AssistiveButton_Example-dummy.m */; };
+		563A30C941AA98AFC888A09BE5B91C66 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		57E4CCDE58BB9B168F9FAD5B3FAFA467 /* Pods-AssistiveButton_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E3ABA1E0A5E6DC023A1DF4FD1B34554E /* Pods-AssistiveButton_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6490DC11CC2A80A165175331AC2274F3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		6E21218C5B2CE946708592124536F7E2 /* AssistiveButton-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 485DF25731E09FC55CD8250D57C40269 /* AssistiveButton-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9B28061D345AF943A7417A7559353FDF /* AssistiveButton-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AEC5527E6240EDA10265B0E4CEAE936A /* AssistiveButton-dummy.m */; };
+		F36B0D6763101523AE8BCFEE0494364F /* AssistiveButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 474143B1E80A39D22B22A8914CAEEDB6 /* AssistiveButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		278687FD8E46E8D563C6DD52FDDDD0FD /* PBXContainerItemProxy */ = {
+		9109841101588FBAFF194582EAE17E09 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 5F8CD80A2219F2A99A57388EF6AABAA3;
+			remoteGlobalIDString = 83E13C674D15F80072DE7E886F34750F;
 			remoteInfo = "Pods-AssistiveButton_Example";
 		};
-		E5499236CDD7DADE2DF0CDF7EB2CA183 /* PBXContainerItemProxy */ = {
+		FE4C68989F2B7D331A976942DA6624C9 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D5946D3194710C900E0A78066075904D;
+			remoteGlobalIDString = 50D5436434176088EB12394AF3BCDB43;
 			remoteInfo = AssistiveButton;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00214010EE959A541E2FA4A5D0D05FD9 /* AssistiveButton-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AssistiveButton-umbrella.h"; sourceTree = "<group>"; };
-		2064F0A1139A8DEA0E23098AD5AEFD62 /* Pods-AssistiveButton_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AssistiveButton_Example-resources.sh"; sourceTree = "<group>"; };
-		24FFF0F43C77686817E7ADE0F125C829 /* Pods-AssistiveButton_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AssistiveButton_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		286A2B95417D946B0C6F954C8FD2D5FD /* AssistiveButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AssistiveButton.swift; path = AssistiveButton/Classes/AssistiveButton.swift; sourceTree = "<group>"; };
-		2AF53F18D50DA87B6D01E354A2121ECD /* Pods-AssistiveButton_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AssistiveButton_Example.release.xcconfig"; sourceTree = "<group>"; };
-		3447F8A8BC3B5C15A11FA22A04321920 /* Pods-AssistiveButton_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-AssistiveButton_Example.modulemap"; sourceTree = "<group>"; };
-		3D7FD9D649B7BC886643777D41BFD708 /* AssistiveButton-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AssistiveButton-prefix.pch"; sourceTree = "<group>"; };
-		53245E01BBC3028E850DA0B8EB6D7371 /* Pods-AssistiveButton_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AssistiveButton_Example-dummy.m"; sourceTree = "<group>"; };
-		53FA0E09C7DE85E91BD83C7ABA7DA88A /* Pods-AssistiveButton_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AssistiveButton_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		540566F25D6D827254D58B3BB100E4DD /* AssistiveButton.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = AssistiveButton.modulemap; sourceTree = "<group>"; };
-		553126D1B90458EDDB6E223F636DC2B6 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		6B1ECDB33989D342082CD21806F21785 /* Pods-AssistiveButton_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AssistiveButton_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		6B63790C1EFD7A7F1734607CBDB17D49 /* AssistiveButton.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AssistiveButton.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		6C89B61DF24EF3CA4EC7EA274516D02E /* Pods-AssistiveButton_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AssistiveButton_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		7084DF0387364E8A2706F47ED4EBA9E1 /* Pods-AssistiveButton_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AssistiveButton_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		739073C7364CA345710BE64C0A5B3FAD /* AssistiveButton-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AssistiveButton-dummy.m"; sourceTree = "<group>"; };
-		785B9C257A31BE8B40ABDAA74A4BA7D8 /* Pods-AssistiveButton_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AssistiveButton_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		7E8D094B9C522FB234767C24BEBC529E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		8158DCCB605D270B2A764D6CE79F4050 /* Pods-AssistiveButton_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AssistiveButton_Example-umbrella.h"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		98677057A28F1A3957D086B9DF5B7FB0 /* Pods_AssistiveButton_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AssistiveButton_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9CAEA3D24717A0D994F2F8FC93A933E3 /* Pods-AssistiveButton_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AssistiveButton_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		A3E56DC9C63E41A855C8692B52258EE8 /* Pods-AssistiveButton_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AssistiveButton_Tests-resources.sh"; sourceTree = "<group>"; };
-		AAD3042E44FF177392267F1356BC1BEC /* AssistiveButton.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = AssistiveButton.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		B65BA885EF2FBD29034F0F988B7775C2 /* AssistiveButton.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AssistiveButton.xcconfig; sourceTree = "<group>"; };
-		C8990FDE893F3AE10DB15EFB001B7CAA /* Pods-AssistiveButton_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AssistiveButton_Tests-umbrella.h"; sourceTree = "<group>"; };
-		DBABF28F3DA254BEC6B47C0B65B1E80D /* Pods-AssistiveButton_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-AssistiveButton_Tests.modulemap"; sourceTree = "<group>"; };
-		DFB5DCE35712AC105D7A3CDDDCEB76BC /* Pods_AssistiveButton_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AssistiveButton_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E47B02656D3DBF1767EE80324B8A4CA9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E57CF3CB68F08336B01E75D2B7531A58 /* Pods-AssistiveButton_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AssistiveButton_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		EF8D7D646C5CA27B01CDCBAF15CE7BE5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F0478C30F33F7AECEBEFA80D20E30BC5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		F6AAAE0A9851DD15761D73D0A07752C5 /* Pods-AssistiveButton_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AssistiveButton_Tests-dummy.m"; sourceTree = "<group>"; };
-		FBB41A812DE95D56F47FBD9B50CD1E60 /* Pods-AssistiveButton_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AssistiveButton_Example-frameworks.sh"; sourceTree = "<group>"; };
+		01878E2FDC86F315486AA0727AD0393A /* Pods-AssistiveButton_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-AssistiveButton_Tests.modulemap"; sourceTree = "<group>"; };
+		01A23BE618577807C789C60D60F17282 /* Pods-AssistiveButton_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AssistiveButton_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		07F8143212A96625F7CC5BFB45FEB245 /* Pods-AssistiveButton_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AssistiveButton_Tests-Info.plist"; sourceTree = "<group>"; };
+		15686E939C7944172D14CCE47CF9FAC4 /* AssistiveButton.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AssistiveButton.debug.xcconfig; sourceTree = "<group>"; };
+		1D2C6F87617F7C812DD45B730409CF11 /* Pods-AssistiveButton_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AssistiveButton_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		29EB8A4458DAE1FDC9E0F358557E83A8 /* AssistiveButton.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = AssistiveButton.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		2D9B4DE819E056D1F5B4BC36E6075F6F /* Pods-AssistiveButton_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AssistiveButton_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		2DD4F50BE796A725B8CE60DC364B456E /* Pods-AssistiveButton_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AssistiveButton_Example-Info.plist"; sourceTree = "<group>"; };
+		46337A56AFB93851948768333D9901EA /* Pods-AssistiveButton_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AssistiveButton_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		474143B1E80A39D22B22A8914CAEEDB6 /* AssistiveButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AssistiveButton.swift; path = AssistiveButton/Classes/AssistiveButton.swift; sourceTree = "<group>"; };
+		485DF25731E09FC55CD8250D57C40269 /* AssistiveButton-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AssistiveButton-umbrella.h"; sourceTree = "<group>"; };
+		528CFFD99A6505C0E289B82B4A591A9D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		584E56C7661B8818453AC8C904D4D2E6 /* AssistiveButton-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AssistiveButton-prefix.pch"; sourceTree = "<group>"; };
+		5C8732A0F3184CD98E2545EFEB55E094 /* Pods-AssistiveButton_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AssistiveButton_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		611916B060B8BF27E1D471960D54B006 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		7C49434CD60B0F2B9C4093C6566C2717 /* Pods-AssistiveButton_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AssistiveButton_Tests-dummy.m"; sourceTree = "<group>"; };
+		9C4ED78090156E4E0E4E869E4E6D8185 /* Pods-AssistiveButton_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AssistiveButton_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A52F369F1F0519C4502D411CAA7160DE /* Pods_AssistiveButton_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AssistiveButton_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A54B2163E6CBC42E129D1611078F409F /* AssistiveButton-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "AssistiveButton-Info.plist"; sourceTree = "<group>"; };
+		A63571136371F4499A9433E311BC724F /* Pods-AssistiveButton_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AssistiveButton_Example-dummy.m"; sourceTree = "<group>"; };
+		AEC5527E6240EDA10265B0E4CEAE936A /* AssistiveButton-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AssistiveButton-dummy.m"; sourceTree = "<group>"; };
+		C58B7A62ADFCA0B19E8E554BDD2BF200 /* Pods-AssistiveButton_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AssistiveButton_Example-frameworks.sh"; sourceTree = "<group>"; };
+		C6BA53C6B1E7125C0A8B2E494614EC75 /* Pods_AssistiveButton_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AssistiveButton_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D03F8CBF1F7D959A9AACC9D5012686C3 /* AssistiveButton.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AssistiveButton.release.xcconfig; sourceTree = "<group>"; };
+		DE171B43B2DEEE0F9535257C0C45A4E5 /* Pods-AssistiveButton_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AssistiveButton_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		E38F4FBC3A09208C7790DC24884D23A1 /* Pods-AssistiveButton_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-AssistiveButton_Example.modulemap"; sourceTree = "<group>"; };
+		E3ABA1E0A5E6DC023A1DF4FD1B34554E /* Pods-AssistiveButton_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AssistiveButton_Example-umbrella.h"; sourceTree = "<group>"; };
+		E6DC596780A74E3906D856727BDEA438 /* AssistiveButton.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AssistiveButton.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F6D39A5D6AE40E637C7D0E3181B3A985 /* Pods-AssistiveButton_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AssistiveButton_Example.release.xcconfig"; sourceTree = "<group>"; };
+		F7801B2A1DB0B1ADE05C732F0E75727D /* Pods-AssistiveButton_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AssistiveButton_Tests-umbrella.h"; sourceTree = "<group>"; };
+		FC2284783E7E4FBB6CB26A1D27196097 /* AssistiveButton.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = AssistiveButton.modulemap; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		06D02D3CDC765618DF7761D9DBE00D26 /* Frameworks */ = {
+		887D8696C4E395ACC41E8F1A1A855321 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA082ABA101A1683B3CEC89A481915FC /* Foundation.framework in Frameworks */,
+				563A30C941AA98AFC888A09BE5B91C66 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5B46E6E9785CD943C62406C0AE21DA08 /* Frameworks */ = {
+		93C14A2529B70B414B83986888A4A7CD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D5CEB0A8B025F516D44C9E8C5DD36EFA /* Foundation.framework in Frameworks */,
+				0CA05A3085E8E658CF8AF8DD73B0DCA0 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E6688D312ABB9F536ED7D7BAFC8D849A /* Frameworks */ = {
+		9D8BC76ED80881FBA440F34BEE61DB81 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				48349A31549DA149D3A6FCFEE9C748A2 /* Foundation.framework in Frameworks */,
+				6490DC11CC2A80A165175331AC2274F3 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0CCC73A10440B3B671474BD5A34DBB27 /* Support Files */ = {
+		125D4821E20FAFC9C9F67402CD23D412 /* Pods-AssistiveButton_Tests */ = {
 			isa = PBXGroup;
 			children = (
-				540566F25D6D827254D58B3BB100E4DD /* AssistiveButton.modulemap */,
-				B65BA885EF2FBD29034F0F988B7775C2 /* AssistiveButton.xcconfig */,
-				739073C7364CA345710BE64C0A5B3FAD /* AssistiveButton-dummy.m */,
-				3D7FD9D649B7BC886643777D41BFD708 /* AssistiveButton-prefix.pch */,
-				00214010EE959A541E2FA4A5D0D05FD9 /* AssistiveButton-umbrella.h */,
-				E47B02656D3DBF1767EE80324B8A4CA9 /* Info.plist */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/AssistiveButton";
-			sourceTree = "<group>";
-		};
-		14D66681D79F2BF8A1D43BE9995995B1 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				C178E92E32FF7B977A01EC62C93353FC /* AssistiveButton */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		5C3B5871CAD3BD08ACBD63D19CFBC80A /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				AAD3042E44FF177392267F1356BC1BEC /* AssistiveButton.podspec */,
-				7E8D094B9C522FB234767C24BEBC529E /* LICENSE */,
-				F0478C30F33F7AECEBEFA80D20E30BC5 /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		7DB346D0F39D3F0E887471402A8071AB = {
-			isa = PBXGroup;
-			children = (
-				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				14D66681D79F2BF8A1D43BE9995995B1 /* Development Pods */,
-				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
-				B6806B80CEAE7A0EAC7840363F9B68A2 /* Products */,
-				CE8EA3774D64958A67D9EF3AB685D7B4 /* Targets Support Files */,
-			);
-			sourceTree = "<group>";
-		};
-		9AE7008C668383D69470FFF4C0CA1151 /* Pods-AssistiveButton_Tests */ = {
-			isa = PBXGroup;
-			children = (
-				EF8D7D646C5CA27B01CDCBAF15CE7BE5 /* Info.plist */,
-				DBABF28F3DA254BEC6B47C0B65B1E80D /* Pods-AssistiveButton_Tests.modulemap */,
-				9CAEA3D24717A0D994F2F8FC93A933E3 /* Pods-AssistiveButton_Tests-acknowledgements.markdown */,
-				6B1ECDB33989D342082CD21806F21785 /* Pods-AssistiveButton_Tests-acknowledgements.plist */,
-				F6AAAE0A9851DD15761D73D0A07752C5 /* Pods-AssistiveButton_Tests-dummy.m */,
-				E57CF3CB68F08336B01E75D2B7531A58 /* Pods-AssistiveButton_Tests-frameworks.sh */,
-				A3E56DC9C63E41A855C8692B52258EE8 /* Pods-AssistiveButton_Tests-resources.sh */,
-				C8990FDE893F3AE10DB15EFB001B7CAA /* Pods-AssistiveButton_Tests-umbrella.h */,
-				24FFF0F43C77686817E7ADE0F125C829 /* Pods-AssistiveButton_Tests.debug.xcconfig */,
-				785B9C257A31BE8B40ABDAA74A4BA7D8 /* Pods-AssistiveButton_Tests.release.xcconfig */,
+				01878E2FDC86F315486AA0727AD0393A /* Pods-AssistiveButton_Tests.modulemap */,
+				DE171B43B2DEEE0F9535257C0C45A4E5 /* Pods-AssistiveButton_Tests-acknowledgements.markdown */,
+				5C8732A0F3184CD98E2545EFEB55E094 /* Pods-AssistiveButton_Tests-acknowledgements.plist */,
+				7C49434CD60B0F2B9C4093C6566C2717 /* Pods-AssistiveButton_Tests-dummy.m */,
+				07F8143212A96625F7CC5BFB45FEB245 /* Pods-AssistiveButton_Tests-Info.plist */,
+				F7801B2A1DB0B1ADE05C732F0E75727D /* Pods-AssistiveButton_Tests-umbrella.h */,
+				1D2C6F87617F7C812DD45B730409CF11 /* Pods-AssistiveButton_Tests.debug.xcconfig */,
+				46337A56AFB93851948768333D9901EA /* Pods-AssistiveButton_Tests.release.xcconfig */,
 			);
 			name = "Pods-AssistiveButton_Tests";
 			path = "Target Support Files/Pods-AssistiveButton_Tests";
 			sourceTree = "<group>";
 		};
-		9EF222207D32512B9603416FB2E49C1C /* Pods-AssistiveButton_Example */ = {
+		3E3AEF9EE6F8A1B3601C293112151710 /* AssistiveButton */ = {
 			isa = PBXGroup;
 			children = (
-				553126D1B90458EDDB6E223F636DC2B6 /* Info.plist */,
-				3447F8A8BC3B5C15A11FA22A04321920 /* Pods-AssistiveButton_Example.modulemap */,
-				7084DF0387364E8A2706F47ED4EBA9E1 /* Pods-AssistiveButton_Example-acknowledgements.markdown */,
-				6C89B61DF24EF3CA4EC7EA274516D02E /* Pods-AssistiveButton_Example-acknowledgements.plist */,
-				53245E01BBC3028E850DA0B8EB6D7371 /* Pods-AssistiveButton_Example-dummy.m */,
-				FBB41A812DE95D56F47FBD9B50CD1E60 /* Pods-AssistiveButton_Example-frameworks.sh */,
-				2064F0A1139A8DEA0E23098AD5AEFD62 /* Pods-AssistiveButton_Example-resources.sh */,
-				8158DCCB605D270B2A764D6CE79F4050 /* Pods-AssistiveButton_Example-umbrella.h */,
-				53FA0E09C7DE85E91BD83C7ABA7DA88A /* Pods-AssistiveButton_Example.debug.xcconfig */,
-				2AF53F18D50DA87B6D01E354A2121ECD /* Pods-AssistiveButton_Example.release.xcconfig */,
-			);
-			name = "Pods-AssistiveButton_Example";
-			path = "Target Support Files/Pods-AssistiveButton_Example";
-			sourceTree = "<group>";
-		};
-		B6806B80CEAE7A0EAC7840363F9B68A2 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				6B63790C1EFD7A7F1734607CBDB17D49 /* AssistiveButton.framework */,
-				DFB5DCE35712AC105D7A3CDDDCEB76BC /* Pods_AssistiveButton_Example.framework */,
-				98677057A28F1A3957D086B9DF5B7FB0 /* Pods_AssistiveButton_Tests.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				D35AF013A5F0BAD4F32504907A52519E /* iOS */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		C178E92E32FF7B977A01EC62C93353FC /* AssistiveButton */ = {
-			isa = PBXGroup;
-			children = (
-				286A2B95417D946B0C6F954C8FD2D5FD /* AssistiveButton.swift */,
-				5C3B5871CAD3BD08ACBD63D19CFBC80A /* Pod */,
-				0CCC73A10440B3B671474BD5A34DBB27 /* Support Files */,
+				474143B1E80A39D22B22A8914CAEEDB6 /* AssistiveButton.swift */,
+				583526EF20CC2E81793A2D0F8F6D96EE /* Pod */,
+				6496B2D1696A23A8D49EB05B2BF47F8E /* Support Files */,
 			);
 			name = AssistiveButton;
 			path = ../..;
 			sourceTree = "<group>";
 		};
-		CE8EA3774D64958A67D9EF3AB685D7B4 /* Targets Support Files */ = {
+		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				9EF222207D32512B9603416FB2E49C1C /* Pods-AssistiveButton_Example */,
-				9AE7008C668383D69470FFF4C0CA1151 /* Pods-AssistiveButton_Tests */,
+				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		583526EF20CC2E81793A2D0F8F6D96EE /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				29EB8A4458DAE1FDC9E0F358557E83A8 /* AssistiveButton.podspec */,
+				611916B060B8BF27E1D471960D54B006 /* LICENSE */,
+				528CFFD99A6505C0E289B82B4A591A9D /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		6496B2D1696A23A8D49EB05B2BF47F8E /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				FC2284783E7E4FBB6CB26A1D27196097 /* AssistiveButton.modulemap */,
+				AEC5527E6240EDA10265B0E4CEAE936A /* AssistiveButton-dummy.m */,
+				A54B2163E6CBC42E129D1611078F409F /* AssistiveButton-Info.plist */,
+				584E56C7661B8818453AC8C904D4D2E6 /* AssistiveButton-prefix.pch */,
+				485DF25731E09FC55CD8250D57C40269 /* AssistiveButton-umbrella.h */,
+				15686E939C7944172D14CCE47CF9FAC4 /* AssistiveButton.debug.xcconfig */,
+				D03F8CBF1F7D959A9AACC9D5012686C3 /* AssistiveButton.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/AssistiveButton";
+			sourceTree = "<group>";
+		};
+		8D7F6AAB5995D0C7C092CB7F9CE5EAB9 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3E3AEF9EE6F8A1B3601C293112151710 /* AssistiveButton */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		94757059C015C7DAD14DFAD17DC342AC /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				94F10BBCE174893647D32EFA49D63A14 /* Pods-AssistiveButton_Example */,
+				125D4821E20FAFC9C9F67402CD23D412 /* Pods-AssistiveButton_Tests */,
 			);
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
+		94F10BBCE174893647D32EFA49D63A14 /* Pods-AssistiveButton_Example */ = {
 			isa = PBXGroup;
 			children = (
-				6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */,
+				E38F4FBC3A09208C7790DC24884D23A1 /* Pods-AssistiveButton_Example.modulemap */,
+				01A23BE618577807C789C60D60F17282 /* Pods-AssistiveButton_Example-acknowledgements.markdown */,
+				2D9B4DE819E056D1F5B4BC36E6075F6F /* Pods-AssistiveButton_Example-acknowledgements.plist */,
+				A63571136371F4499A9433E311BC724F /* Pods-AssistiveButton_Example-dummy.m */,
+				C58B7A62ADFCA0B19E8E554BDD2BF200 /* Pods-AssistiveButton_Example-frameworks.sh */,
+				2DD4F50BE796A725B8CE60DC364B456E /* Pods-AssistiveButton_Example-Info.plist */,
+				E3ABA1E0A5E6DC023A1DF4FD1B34554E /* Pods-AssistiveButton_Example-umbrella.h */,
+				9C4ED78090156E4E0E4E869E4E6D8185 /* Pods-AssistiveButton_Example.debug.xcconfig */,
+				F6D39A5D6AE40E637C7D0E3181B3A985 /* Pods-AssistiveButton_Example.release.xcconfig */,
 			);
-			name = iOS;
+			name = "Pods-AssistiveButton_Example";
+			path = "Target Support Files/Pods-AssistiveButton_Example";
+			sourceTree = "<group>";
+		};
+		CF1408CF629C7361332E53B88F7BD30C = {
+			isa = PBXGroup;
+			children = (
+				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				8D7F6AAB5995D0C7C092CB7F9CE5EAB9 /* Development Pods */,
+				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
+				FAF9C9445B85270DE92EC04652EADCBB /* Products */,
+				94757059C015C7DAD14DFAD17DC342AC /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				578452D2E740E91742655AC8F1636D1F /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FAF9C9445B85270DE92EC04652EADCBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E6DC596780A74E3906D856727BDEA438 /* AssistiveButton.framework */,
+				A52F369F1F0519C4502D411CAA7160DE /* Pods_AssistiveButton_Example.framework */,
+				C6BA53C6B1E7125C0A8B2E494614EC75 /* Pods_AssistiveButton_Tests.framework */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		4CEDFD55D5E973CB24935C27D8A97CD3 /* Headers */ = {
+		604EBC4E855F3079A871F00EB8A8D2DA /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D6E63357681FFAE2BE2C2E7993A40D56 /* AssistiveButton-umbrella.h in Headers */,
+				57E4CCDE58BB9B168F9FAD5B3FAFA467 /* Pods-AssistiveButton_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		94B8B7616C5E58034612BBFE361E3E4C /* Headers */ = {
+		945575EA5D4D8ACC8B613A4673C16E6C /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				58AD119411B01AC86F3D47D61A24B0CD /* Pods-AssistiveButton_Example-umbrella.h in Headers */,
+				6E21218C5B2CE946708592124536F7E2 /* AssistiveButton-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C175E8802C5491CF84B4CB6D328C4225 /* Headers */ = {
+		A1C0F0FD5621B096F0DD3D9D1DE0EC1C /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E9040B3C8883E850643087E3A11B7B0B /* Pods-AssistiveButton_Tests-umbrella.h in Headers */,
+				423747679428CED615CC5BE99A02DEA7 /* Pods-AssistiveButton_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		50A4DFD0F6740036E1A5CB4CFCC5E5EF /* Pods-AssistiveButton_Tests */ = {
+		50D5436434176088EB12394AF3BCDB43 /* AssistiveButton */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8CE9735337CF36989DE3E84FD53A7AFC /* Build configuration list for PBXNativeTarget "Pods-AssistiveButton_Tests" */;
+			buildConfigurationList = 36E6BE726EB9E35C72E9C09E49006A62 /* Build configuration list for PBXNativeTarget "AssistiveButton" */;
 			buildPhases = (
-				BB7E4A9B5097081B9C854125C5EE391B /* Sources */,
-				5B46E6E9785CD943C62406C0AE21DA08 /* Frameworks */,
-				C175E8802C5491CF84B4CB6D328C4225 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				2018D2FC79DD611DA91D3C08416F925B /* PBXTargetDependency */,
-			);
-			name = "Pods-AssistiveButton_Tests";
-			productName = "Pods-AssistiveButton_Tests";
-			productReference = 98677057A28F1A3957D086B9DF5B7FB0 /* Pods_AssistiveButton_Tests.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		5F8CD80A2219F2A99A57388EF6AABAA3 /* Pods-AssistiveButton_Example */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 0D24DE47DFBF93B81D38D3603391B5EB /* Build configuration list for PBXNativeTarget "Pods-AssistiveButton_Example" */;
-			buildPhases = (
-				CDFFF31C055A24DFD6FFADEE3DC5607F /* Sources */,
-				06D02D3CDC765618DF7761D9DBE00D26 /* Frameworks */,
-				94B8B7616C5E58034612BBFE361E3E4C /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				1D48384C1E238810E07B5B6A829D0B49 /* PBXTargetDependency */,
-			);
-			name = "Pods-AssistiveButton_Example";
-			productName = "Pods-AssistiveButton_Example";
-			productReference = DFB5DCE35712AC105D7A3CDDDCEB76BC /* Pods_AssistiveButton_Example.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		D5946D3194710C900E0A78066075904D /* AssistiveButton */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 3A9D8196915FF3CF1B1382796C663265 /* Build configuration list for PBXNativeTarget "AssistiveButton" */;
-			buildPhases = (
-				C7A303239F15AD45F43AD6F77EEACA87 /* Sources */,
-				E6688D312ABB9F536ED7D7BAFC8D849A /* Frameworks */,
-				4CEDFD55D5E973CB24935C27D8A97CD3 /* Headers */,
+				945575EA5D4D8ACC8B613A4673C16E6C /* Headers */,
+				470EAE5B5E6D50E8F2B382A1793611D8 /* Sources */,
+				887D8696C4E395ACC41E8F1A1A855321 /* Frameworks */,
+				CB759BD251F7EAC20CACC1432B3F310B /* Resources */,
 			);
 			buildRules = (
 			);
@@ -307,119 +268,149 @@
 			);
 			name = AssistiveButton;
 			productName = AssistiveButton;
-			productReference = 6B63790C1EFD7A7F1734607CBDB17D49 /* AssistiveButton.framework */;
+			productReference = E6DC596780A74E3906D856727BDEA438 /* AssistiveButton.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		83E13C674D15F80072DE7E886F34750F /* Pods-AssistiveButton_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D0DA1D5D686C7490140168E40218C2B0 /* Build configuration list for PBXNativeTarget "Pods-AssistiveButton_Example" */;
+			buildPhases = (
+				604EBC4E855F3079A871F00EB8A8D2DA /* Headers */,
+				5D17763B431383EDDF05FCA56A680A8E /* Sources */,
+				93C14A2529B70B414B83986888A4A7CD /* Frameworks */,
+				B6A4870EFEC6F175E6ED73AF4A54AC5F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D3E38A4728AA75D05601E1A280D295AA /* PBXTargetDependency */,
+			);
+			name = "Pods-AssistiveButton_Example";
+			productName = Pods_AssistiveButton_Example;
+			productReference = A52F369F1F0519C4502D411CAA7160DE /* Pods_AssistiveButton_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		889724BAC4BA186FE6724832B0094078 /* Pods-AssistiveButton_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A9A0DB6C874068BCAD1C5453DE3D4AD0 /* Build configuration list for PBXNativeTarget "Pods-AssistiveButton_Tests" */;
+			buildPhases = (
+				A1C0F0FD5621B096F0DD3D9D1DE0EC1C /* Headers */,
+				CA15C236BCC8F4F29BCE8952272AA979 /* Sources */,
+				9D8BC76ED80881FBA440F34BEE61DB81 /* Frameworks */,
+				8869A9833EBE4BEFF81D207828AC510C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				410CE900A8145145601D84E138FC2330 /* PBXTargetDependency */,
+			);
+			name = "Pods-AssistiveButton_Tests";
+			productName = Pods_AssistiveButton_Tests;
+			productReference = C6BA53C6B1E7125C0A8B2E494614EC75 /* Pods_AssistiveButton_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0930;
-				LastUpgradeCheck = 0930;
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1320;
 			};
-			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				Base,
 				en,
 			);
-			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = B6806B80CEAE7A0EAC7840363F9B68A2 /* Products */;
+			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			productRefGroup = FAF9C9445B85270DE92EC04652EADCBB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D5946D3194710C900E0A78066075904D /* AssistiveButton */,
-				5F8CD80A2219F2A99A57388EF6AABAA3 /* Pods-AssistiveButton_Example */,
-				50A4DFD0F6740036E1A5CB4CFCC5E5EF /* Pods-AssistiveButton_Tests */,
+				50D5436434176088EB12394AF3BCDB43 /* AssistiveButton */,
+				83E13C674D15F80072DE7E886F34750F /* Pods-AssistiveButton_Example */,
+				889724BAC4BA186FE6724832B0094078 /* Pods-AssistiveButton_Tests */,
 			);
 		};
 /* End PBXProject section */
 
+/* Begin PBXResourcesBuildPhase section */
+		8869A9833EBE4BEFF81D207828AC510C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B6A4870EFEC6F175E6ED73AF4A54AC5F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CB759BD251F7EAC20CACC1432B3F310B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
-		BB7E4A9B5097081B9C854125C5EE391B /* Sources */ = {
+		470EAE5B5E6D50E8F2B382A1793611D8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				497A56275EAF1BE9E0C086E16F5732B8 /* Pods-AssistiveButton_Tests-dummy.m in Sources */,
+				F36B0D6763101523AE8BCFEE0494364F /* AssistiveButton.swift in Sources */,
+				9B28061D345AF943A7417A7559353FDF /* AssistiveButton-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C7A303239F15AD45F43AD6F77EEACA87 /* Sources */ = {
+		5D17763B431383EDDF05FCA56A680A8E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E1F8FD2D3B50A10FA51635DDD1429FF5 /* AssistiveButton-dummy.m in Sources */,
-				EAB69751BAFF014CA22B884ADD599537 /* AssistiveButton.swift in Sources */,
+				47223645F3006E0A1110088794B017C7 /* Pods-AssistiveButton_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CDFFF31C055A24DFD6FFADEE3DC5607F /* Sources */ = {
+		CA15C236BCC8F4F29BCE8952272AA979 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4986D59E2DF2801E8D547D9A6F01BBFE /* Pods-AssistiveButton_Example-dummy.m in Sources */,
+				15B7F2455612A6E87F589C2C1C0B2131 /* Pods-AssistiveButton_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		1D48384C1E238810E07B5B6A829D0B49 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = AssistiveButton;
-			target = D5946D3194710C900E0A78066075904D /* AssistiveButton */;
-			targetProxy = E5499236CDD7DADE2DF0CDF7EB2CA183 /* PBXContainerItemProxy */;
-		};
-		2018D2FC79DD611DA91D3C08416F925B /* PBXTargetDependency */ = {
+		410CE900A8145145601D84E138FC2330 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-AssistiveButton_Example";
-			target = 5F8CD80A2219F2A99A57388EF6AABAA3 /* Pods-AssistiveButton_Example */;
-			targetProxy = 278687FD8E46E8D563C6DD52FDDDD0FD /* PBXContainerItemProxy */;
+			target = 83E13C674D15F80072DE7E886F34750F /* Pods-AssistiveButton_Example */;
+			targetProxy = 9109841101588FBAFF194582EAE17E09 /* PBXContainerItemProxy */;
+		};
+		D3E38A4728AA75D05601E1A280D295AA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = AssistiveButton;
+			target = 50D5436434176088EB12394AF3BCDB43 /* AssistiveButton */;
+			targetProxy = FE4C68989F2B7D331A976942DA6624C9 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		11FD0225BD95B8B94CB9D72B2A1863C4 /* Debug */ = {
+		01F7DB36C68BCD7E369D217243929CD8 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B65BA885EF2FBD29034F0F988B7775C2 /* AssistiveButton.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/AssistiveButton/AssistiveButton-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/AssistiveButton/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/AssistiveButton/AssistiveButton.modulemap";
-				PRODUCT_MODULE_NAME = AssistiveButton;
-				PRODUCT_NAME = AssistiveButton;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		14E8BCE8906270CC945981DF1D8511CB /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 53FA0E09C7DE85E91BD83C7ABA7DA88A /* Pods-AssistiveButton_Example.debug.xcconfig */;
+			baseConfigurationReference = 1D2C6F87617F7C812DD45B730409CF11 /* Pods-AssistiveButton_Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -428,77 +419,9 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-AssistiveButton_Example/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-AssistiveButton_Tests/Pods-AssistiveButton_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-AssistiveButton_Example/Pods-AssistiveButton_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		4E6D9475277942E413CBFB7FC0E54452 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = B65BA885EF2FBD29034F0F988B7775C2 /* AssistiveButton.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/AssistiveButton/AssistiveButton-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/AssistiveButton/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/AssistiveButton/AssistiveButton.modulemap";
-				PRODUCT_MODULE_NAME = AssistiveButton;
-				PRODUCT_NAME = AssistiveButton;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		5E2C4885F5FFC73C7B6DBA4202EA5B01 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 785B9C257A31BE8B40ABDAA74A4BA7D8 /* Pods-AssistiveButton_Tests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-AssistiveButton_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-AssistiveButton_Tests/Pods-AssistiveButton_Tests.modulemap";
@@ -510,18 +433,16 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
-		C1BC7519CDC733B6A13EF65E0AE77C87 /* Release */ = {
+		0562E0F38614F75434177A1A8EFE225A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2AF53F18D50DA87B6D01E354A2121ECD /* Pods-AssistiveButton_Example.release.xcconfig */;
+			baseConfigurationReference = D03F8CBF1F7D959A9AACC9D5012686C3 /* AssistiveButton.release.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
+				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -530,9 +451,72 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-AssistiveButton_Example/Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/AssistiveButton/AssistiveButton-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/AssistiveButton/AssistiveButton-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/AssistiveButton/AssistiveButton.modulemap";
+				PRODUCT_MODULE_NAME = AssistiveButton;
+				PRODUCT_NAME = AssistiveButton;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		62ADC11EC174B44AD97574D79C16BAC9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 15686E939C7944172D14CCE47CF9FAC4 /* AssistiveButton.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/AssistiveButton/AssistiveButton-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/AssistiveButton/AssistiveButton-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/AssistiveButton/AssistiveButton.modulemap";
+				PRODUCT_MODULE_NAME = AssistiveButton;
+				PRODUCT_NAME = AssistiveButton;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		669399BD30E263706C995BFA3E6E3356 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9C4ED78090156E4E0E4E869E4E6D8185 /* Pods-AssistiveButton_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-AssistiveButton_Example/Pods-AssistiveButton_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-AssistiveButton_Example/Pods-AssistiveButton_Example.modulemap";
@@ -543,18 +527,17 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
-		C7BE62186E17127FF3B5B27A193214BD /* Debug */ = {
+		7AB5E2D3F528C2D80FB9A92EB667EB88 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -577,14 +560,140 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGNING_ALLOWED = NO;
-				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		7F09A795B8D6F2E3CD8FF50B4507B1CF /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F6D39A5D6AE40E637C7D0E3181B3A985 /* Pods-AssistiveButton_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-AssistiveButton_Example/Pods-AssistiveButton_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-AssistiveButton_Example/Pods-AssistiveButton_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		981A4D99E6A6C628CAE73B6913BEB34B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46337A56AFB93851948768333D9901EA /* Pods-AssistiveButton_Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-AssistiveButton_Tests/Pods-AssistiveButton_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-AssistiveButton_Tests/Pods-AssistiveButton_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		CA72A6FC05FFA515A46233C87282147A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -604,147 +713,59 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				MTL_ENABLE_DEBUG_INFO = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
-			};
-			name = Debug;
-		};
-		D077E5AF30E3A09910AC48CA760A1280 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGNING_ALLOWED = NO;
-				CODE_SIGNING_REQUIRED = NO;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"POD_CONFIGURATION_RELEASE=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRIP_INSTALLED_PRODUCT = NO;
-				SYMROOT = "${SRCROOT}/../build";
-			};
-			name = Release;
-		};
-		D7327B95AC3182267EFCEA2CD9FB503B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 24FFF0F43C77686817E7ADE0F125C829 /* Pods-AssistiveButton_Tests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-AssistiveButton_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-AssistiveButton_Tests/Pods-AssistiveButton_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0D24DE47DFBF93B81D38D3603391B5EB /* Build configuration list for PBXNativeTarget "Pods-AssistiveButton_Example" */ = {
+		36E6BE726EB9E35C72E9C09E49006A62 /* Build configuration list for PBXNativeTarget "AssistiveButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				14E8BCE8906270CC945981DF1D8511CB /* Debug */,
-				C1BC7519CDC733B6A13EF65E0AE77C87 /* Release */,
+				62ADC11EC174B44AD97574D79C16BAC9 /* Debug */,
+				0562E0F38614F75434177A1A8EFE225A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C7BE62186E17127FF3B5B27A193214BD /* Debug */,
-				D077E5AF30E3A09910AC48CA760A1280 /* Release */,
+				CA72A6FC05FFA515A46233C87282147A /* Debug */,
+				7AB5E2D3F528C2D80FB9A92EB667EB88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3A9D8196915FF3CF1B1382796C663265 /* Build configuration list for PBXNativeTarget "AssistiveButton" */ = {
+		A9A0DB6C874068BCAD1C5453DE3D4AD0 /* Build configuration list for PBXNativeTarget "Pods-AssistiveButton_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				11FD0225BD95B8B94CB9D72B2A1863C4 /* Debug */,
-				4E6D9475277942E413CBFB7FC0E54452 /* Release */,
+				01F7DB36C68BCD7E369D217243929CD8 /* Debug */,
+				981A4D99E6A6C628CAE73B6913BEB34B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8CE9735337CF36989DE3E84FD53A7AFC /* Build configuration list for PBXNativeTarget "Pods-AssistiveButton_Tests" */ = {
+		D0DA1D5D686C7490140168E40218C2B0 /* Build configuration list for PBXNativeTarget "Pods-AssistiveButton_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D7327B95AC3182267EFCEA2CD9FB503B /* Debug */,
-				5E2C4885F5FFC73C7B6DBA4202EA5B01 /* Release */,
+				669399BD30E263706C995BFA3E6E3356 /* Debug */,
+				7F09A795B8D6F2E3CD8FF50B4507B1CF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+	rootObject = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 }
